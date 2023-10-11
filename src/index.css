@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.change-color {
+        filter: brightness(0) invert(1);
+}
